@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DownBump.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownBump0000" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0001" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0002" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0003" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0004" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0005" x="174" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0006" x="348" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0007" x="522" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0008" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0009" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0010" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0011" x="0" y="0" width="174" height="146"/>
+	<SubTexture name="DownBump0012" x="0" y="0" width="174" height="146"/>
+</TextureAtlas>

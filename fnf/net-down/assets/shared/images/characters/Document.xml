@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Document.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FaceDown0000" x="0" y="0" width="546" height="384"/>
+	<SubTexture name="FaceDown0001" x="546" y="0" width="546" height="384"/>
+	<SubTexture name="FaceDown0002" x="546" y="0" width="546" height="384"/>
+	<SubTexture name="FaceDown0003" x="546" y="0" width="546" height="384"/>
+	<SubTexture name="FaceIdle0000" x="1092" y="0" width="546" height="384"/>
+	<SubTexture name="FaceIdle0001" x="1092" y="0" width="546" height="384"/>
+	<SubTexture name="FaceIdle0002" x="1092" y="0" width="546" height="384"/>
+	<SubTexture name="FaceIdle0003" x="1638" y="0" width="546" height="384"/>
+	<SubTexture name="FaceIdle0004" x="2184" y="0" width="546" height="384"/>
+	<SubTexture name="FaceIdle0005" x="2730" y="0" width="546" height="384"/>
+	<SubTexture name="FaceIdle0006" x="2184" y="0" width="546" height="384"/>
+	<SubTexture name="FaceLeft0000" x="3276" y="0" width="546" height="384"/>
+	<SubTexture name="FaceLeft0001" x="0" y="384" width="546" height="384"/>
+	<SubTexture name="FaceLeft0002" x="546" y="384" width="546" height="384"/>
+	<SubTexture name="FaceLeft0003" x="546" y="384" width="546" height="384"/>
+	<SubTexture name="FaceRight0000" x="1092" y="384" width="546" height="384"/>
+	<SubTexture name="FaceRight0001" x="1638" y="384" width="546" height="384"/>
+	<SubTexture name="FaceRight0002" x="2184" y="384" width="546" height="384"/>
+	<SubTexture name="FaceRight0003" x="2184" y="384" width="546" height="384"/>
+	<SubTexture name="FaceUp0000" x="2730" y="384" width="546" height="384"/>
+	<SubTexture name="FaceUp0001" x="3276" y="384" width="546" height="384"/>
+	<SubTexture name="FaceUp0002" x="0" y="768" width="546" height="384"/>
+	<SubTexture name="FaceUp0003" x="0" y="768" width="546" height="384"/>
+</TextureAtlas>

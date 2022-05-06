@@ -1,0 +1,143 @@
+html {
+  overflow-y: hidden;
+}
+header {
+  background-color: #fac863;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+}
+h2 {
+  font-size: 200%;
+  font-weight: 400;
+}
+body {
+  font-family: "Damion";
+  overflow-x: hidden;
+}
+nav{
+display:flex;
+background-color: #fac863;
+justify-content: space-around;
+color:rgb(255, 254, 254);
+align-items: center;
+}
+nav.logo{
+letter-spacing: 3px;
+}
+nav ul{
+display:flex;
+list-style: none;
+width:35%;
+justify-content: space-between;
+}
+nav ul li a {
+  color:rgb(255, 254, 254);
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.btn{
+border-radius: 40px;
+}
+  nav ul.slide{
+    transform: translateX(0);
+  }
+
+h1 {
+  margin: 0;
+  color: white;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: normal;
+}
+
+p {
+  margin: 0;
+  color: #000000;
+}
+img {
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+header > #headerSubtitle {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Damion";
+  margin: 0;
+  color: #20232a;
+}
+header > .downloadButtons {
+  position: absolute;
+  font-family: "Damion";
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  width: 100%;
+}
+#logo {
+  position: absolute;
+  width: 35%;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.downloadButton {
+  font-size: 25px;
+  border-radius: 50px;
+  color: white;
+  background: #c65df0;
+  padding: 10px;
+  text-align: center;
+  margin: 25px;
+  display: inline-block;
+  border: 5px solid #662e96;
+}
+.downloadButton:hover {
+  color: white;
+  background: #662e96;
+  border: 5px solid #c65df0;
+}
+.downloadButton > a {
+  color: white;
+  text-decoration: none;
+}
+.socials {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+svg {
+  fill: #fbcc6c;
+  transition: 200ms;
+}
+body {
+  overflow: hidden;
+}

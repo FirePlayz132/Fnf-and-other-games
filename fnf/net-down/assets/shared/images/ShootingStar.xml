@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShootingStar.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ShootingStar0000" x="0" y="0" width="416" height="416" frameX="-530" frameY="0" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0001" x="416" y="0" width="451" height="450" frameX="-401" frameY="-95" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0002" x="867" y="0" width="582" height="582" frameX="-141" frameY="-220" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0003" x="1449" y="0" width="221" height="182" frameX="-129" frameY="-627" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0004" x="1670" y="0" width="221" height="182" frameX="-129" frameY="-627" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0005" x="1891" y="0" width="0" height="0" frameX="-530" frameY="0" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0006" x="0" y="582" width="354" height="332" frameX="-1" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0007" x="0" y="582" width="354" height="332" frameX="-1" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0008" x="354" y="582" width="354" height="332" frameX="-1" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0009" x="354" y="582" width="354" height="332" frameX="-1" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0010" x="708" y="582" width="354" height="332" frameX="0" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0011" x="708" y="582" width="354" height="332" frameX="0" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0012" x="1062" y="582" width="354" height="332" frameX="0" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0013" x="1062" y="582" width="354" height="332" frameX="0" frameY="-628" frameWidth="2173" frameHeight="960"/>
+	<SubTexture name="ShootingStar0014" x="1891" y="0" width="0" height="0" frameX="-1228" frameY="0" frameWidth="2173" frameHeight="960"/>
+</TextureAtlas>
